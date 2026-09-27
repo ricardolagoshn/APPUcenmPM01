@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">APPUcenmPM01</string>
+    <string name="form_title">Registro de persona</string>
+    <string name="form_subtitle">Ingresa los datos de la persona.</string>
+    <string name="person_id">ID</string>
+    <string name="person_name">Nombre</string>
+    <string name="person_address">Dirección</string>
+    <string name="person_photo">Foto (URL o ruta)</string>
+    <string name="person_email">Correo electrónico</string>
+    <string name="save">Guardar</string>
+    <string name="person_form_title">Agregar persona</string>
+    <string name="person_form_subtitle">Completa la información personal</string>
+    <string name="person_identification">Identificación</string>
+    <string name="person_identification_helper">Número de identificación de la persona</string>
+    <string name="person_first_names">Nombres</string>
+    <string name="person_last_names">Apellidos</string>
+    <string name="person_birth_date">Fecha de nacimiento</string>
+    <string name="person_birth_date_helper">Formato: dd/mm/aaaa</string>
+    <string name="person_address_label">Dirección</string>
+    <string name="person_phone">Teléfono</string>
+    <string name="person_email_label">Correo electrónico</string>
+    <string name="person_add_action">Agregar persona</string>
+</resources>
